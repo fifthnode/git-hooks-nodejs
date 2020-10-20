@@ -7,7 +7,7 @@
     "test": "jest",
     "lint": "eslint src/**",
     "lint-fix": "eslint src/** --fix",
-    "success-message": "echo Thanks for committing $GET_AUTHOR_NAME"
+    "success-message": "echo Thanks for committing $GIT_AUTHOR_NAME"
   },
   "keywords": [],
   "author": "",
